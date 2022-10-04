@@ -1,0 +1,128 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.vishal_mega_mart_app"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:3:5-79
+11-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:3:22-76
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:4:5-81
+12-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:4:22-78
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:5:5-67
+13-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:5:22-64
+14    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+14-->[:geolocator_android] /home/legion/Work/Flutter/vishal_mega_mart/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-77
+14-->[:geolocator_android] /home/legion/Work/Flutter/vishal_mega_mart/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-74
+15
+16    <application
+17        android:name="android.app.Application"
+17-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:8:9-42
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.6.0] /home/legion/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+19        android:icon="@mipmap/ic_launcher"
+19-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:9:9-43
+20        android:label="vishal_mega_mart_app" >
+20-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:7:9-45
+21        <activity
+21-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:11:9-31:20
+22            android:name="com.example.vishal_mega_mart_app.MainActivity"
+22-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:12:13-41
+23            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+23-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:16:13-163
+24            android:exported="true"
+24-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:13:13-36
+25            android:hardwareAccelerated="true"
+25-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:17:13-47
+26            android:launchMode="singleTop"
+26-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:14:13-43
+27            android:theme="@style/LaunchTheme"
+27-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:15:13-47
+28            android:windowSoftInputMode="adjustResize" >
+28-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:18:13-55
+29
+30            <!--
+31                 Specifies an Android theme to apply to this Activity as soon as
+32                 the Android process has started. This theme is visible to the user
+33                 while the Flutter UI initializes. After that, this theme continues
+34                 to determine the Window background behind the Flutter UI.
+35            -->
+36            <meta-data
+36-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:23:13-26:17
+37                android:name="io.flutter.embedding.android.NormalTheme"
+37-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:24:15-70
+38                android:resource="@style/NormalTheme" />
+38-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:25:15-52
+39
+40            <intent-filter>
+40-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:27:13-30:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:28:17-68
+41-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:28:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:29:17-76
+43-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:29:27-74
+44            </intent-filter>
+45        </activity>
+46        <!--
+47             Don't delete the meta-data below.
+48             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+49        -->
+50        <meta-data
+50-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:34:9-36:33
+51            android:name="flutterEmbedding"
+51-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:35:13-44
+52            android:value="2" />
+52-->/home/legion/Work/Flutter/vishal_mega_mart/android/app/src/main/AndroidManifest.xml:36:13-30
+53
+54        <service
+54-->[:geolocator_android] /home/legion/Work/Flutter/vishal_mega_mart/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:12:9-16:56
+55            android:name="com.baseflow.geolocator.GeolocatorLocationService"
+55-->[:geolocator_android] /home/legion/Work/Flutter/vishal_mega_mart/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-77
+56            android:enabled="true"
+56-->[:geolocator_android] /home/legion/Work/Flutter/vishal_mega_mart/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-35
+57            android:exported="false"
+57-->[:geolocator_android] /home/legion/Work/Flutter/vishal_mega_mart/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:15:13-37
+58            android:foregroundServiceType="location" />
+58-->[:geolocator_android] /home/legion/Work/Flutter/vishal_mega_mart/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:16:13-53
+59
+60        <uses-library
+60-->[androidx.window:window:1.0.0-beta04] /home/legion/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+61            android:name="androidx.window.extensions"
+61-->[androidx.window:window:1.0.0-beta04] /home/legion/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+62            android:required="false" />
+62-->[androidx.window:window:1.0.0-beta04] /home/legion/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+63        <uses-library
+63-->[androidx.window:window:1.0.0-beta04] /home/legion/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+64            android:name="androidx.window.sidecar"
+64-->[androidx.window:window:1.0.0-beta04] /home/legion/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+65            android:required="false" />
+65-->[androidx.window:window:1.0.0-beta04] /home/legion/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+66
+67        <activity
+67-->[com.google.android.gms:play-services-base:17.0.0] /home/legion/.gradle/caches/transforms-3/1ea967b797818d9badf6aaa0240ca184/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+68            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+68-->[com.google.android.gms:play-services-base:17.0.0] /home/legion/.gradle/caches/transforms-3/1ea967b797818d9badf6aaa0240ca184/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+69            android:exported="false"
+69-->[com.google.android.gms:play-services-base:17.0.0] /home/legion/.gradle/caches/transforms-3/1ea967b797818d9badf6aaa0240ca184/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+70            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+70-->[com.google.android.gms:play-services-base:17.0.0] /home/legion/.gradle/caches/transforms-3/1ea967b797818d9badf6aaa0240ca184/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+71
+72        <meta-data
+72-->[com.google.android.gms:play-services-basement:17.0.0] /home/legion/.gradle/caches/transforms-3/4ef803ba34d31dcf48df123a27eb5d76/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+73            android:name="com.google.android.gms.version"
+73-->[com.google.android.gms:play-services-basement:17.0.0] /home/legion/.gradle/caches/transforms-3/4ef803ba34d31dcf48df123a27eb5d76/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+74            android:value="@integer/google_play_services_version" />
+74-->[com.google.android.gms:play-services-basement:17.0.0] /home/legion/.gradle/caches/transforms-3/4ef803ba34d31dcf48df123a27eb5d76/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+75    </application>
+76
+77</manifest>

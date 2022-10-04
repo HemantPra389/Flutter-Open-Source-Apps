@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-5.1.0/android/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-5.1.0/android/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-5.1.0/android/src/main/AndroidManifest.xml:1:1-6:12
+	package
+		ADDED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-5.1.0/android/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-5.1.0/android/src/main/AndroidManifest.xml
+		INJECTED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-5.1.0/android/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-5.1.0/android/src/main/AndroidManifest.xml:2:5-51
+	xmlns:android
+		ADDED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-5.1.0/android/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-5.1.0/android/src/main/AndroidManifest.xml:5:5-58
+INJECTED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-5.1.0/android/src/main/AndroidManifest.xml:5:5-58
+INJECTED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-5.1.0/android/src/main/AndroidManifest.xml:5:5-58
+INJECTED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-5.1.0/android/src/main/AndroidManifest.xml:5:5-58
+INJECTED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-5.1.0/android/src/main/AndroidManifest.xml:5:5-58
+	tools:overrideLibrary
+		ADDED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-5.1.0/android/src/main/AndroidManifest.xml:5:15-56
+	android:targetSdkVersion
+		INJECTED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-5.1.0/android/src/main/AndroidManifest.xml
+		ADDED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-5.1.0/android/src/main/AndroidManifest.xml:5:5-58
+		INJECTED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-5.1.0/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-5.1.0/android/src/main/AndroidManifest.xml
+		ADDED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-5.1.0/android/src/main/AndroidManifest.xml:5:5-58
+		INJECTED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-5.1.0/android/src/main/AndroidManifest.xml

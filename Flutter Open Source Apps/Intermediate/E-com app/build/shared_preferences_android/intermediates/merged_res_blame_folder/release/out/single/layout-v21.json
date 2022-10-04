@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/legion/Work/Flutter/vishal_mega_mart/build/shared_preferences_android/intermediates/merged_res/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/legion/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/legion/Work/Flutter/vishal_mega_mart/build/shared_preferences_android/intermediates/merged_res/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/legion/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/legion/Work/Flutter/vishal_mega_mart/build/shared_preferences_android/intermediates/merged_res/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/legion/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/legion/Work/Flutter/vishal_mega_mart/build/shared_preferences_android/intermediates/merged_res/release/layout-v21/notification_action.xml",
+        "source": "/home/legion/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout-v21/notification_action.xml"
+    }
+]
