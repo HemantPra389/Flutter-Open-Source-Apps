@@ -1,0 +1,41 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.2/android/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.2/android/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.2/android/src/main/AndroidManifest.xml:1:1-13:12
+	package
+		ADDED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.2/android/src/main/AndroidManifest.xml:2:3-36
+		INJECTED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.2/android/src/main/AndroidManifest.xml
+		INJECTED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.2/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.2/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.2/android/src/main/AndroidManifest.xml:4:5-76
+	android:name
+		ADDED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.2/android/src/main/AndroidManifest.xml:4:22-74
+application
+ADDED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.2/android/src/main/AndroidManifest.xml:6:5-12:19
+service#com.baseflow.geolocator.GeolocatorLocationService
+ADDED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.2/android/src/main/AndroidManifest.xml:7:9-11:60
+	android:enabled
+		ADDED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.2/android/src/main/AndroidManifest.xml:8:17-39
+	android:exported
+		ADDED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.2/android/src/main/AndroidManifest.xml:9:17-41
+	android:foregroundServiceType
+		ADDED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.2/android/src/main/AndroidManifest.xml:10:17-57
+	android:name
+		ADDED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.2/android/src/main/AndroidManifest.xml:11:17-58
+uses-sdk
+INJECTED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.2/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.2/android/src/main/AndroidManifest.xml
+INJECTED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.2/android/src/main/AndroidManifest.xml
+INJECTED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.2/android/src/main/AndroidManifest.xml
+INJECTED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.2/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.2/android/src/main/AndroidManifest.xml
+		ADDED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.2/android/src/main/AndroidManifest.xml
+		INJECTED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.2/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.2/android/src/main/AndroidManifest.xml
+		ADDED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.2/android/src/main/AndroidManifest.xml
+		INJECTED from /opt/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.2/android/src/main/AndroidManifest.xml

@@ -1,0 +1,15 @@
+/home/legion/Work/Flutter/vishal_mega_mart/build/linux/x64/debug/bundle/vishal_mega_mart_app
+/home/legion/Work/Flutter/vishal_mega_mart/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/legion/Work/Flutter/vishal_mega_mart/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/legion/Work/Flutter/vishal_mega_mart/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/legion/Work/Flutter/vishal_mega_mart/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/legion/Work/Flutter/vishal_mega_mart/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/legion/Work/Flutter/vishal_mega_mart/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/legion/Work/Flutter/vishal_mega_mart/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/legion/Work/Flutter/vishal_mega_mart/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/legion/Work/Flutter/vishal_mega_mart/build/linux/x64/debug/bundle/data/flutter_assets/assets/p.jpeg
+/home/legion/Work/Flutter/vishal_mega_mart/build/linux/x64/debug/bundle/data/flutter_assets/assets/thor.jpg
+/home/legion/Work/Flutter/vishal_mega_mart/build/linux/x64/debug/bundle/data/flutter_assets/assets/img.png
+/home/legion/Work/Flutter/vishal_mega_mart/build/linux/x64/debug/bundle/data/flutter_assets/assets/f.jpg
+/home/legion/Work/Flutter/vishal_mega_mart/build/linux/x64/debug/bundle/data/flutter_assets/assets/t.jpg
+/home/legion/Work/Flutter/vishal_mega_mart/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
