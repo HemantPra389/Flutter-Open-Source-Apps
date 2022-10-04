@@ -3,7 +3,7 @@
    <application
         android:label="bmi_calculator"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/bmilogo">
         <activity
             android:name=".MainActivity"
             android:exported="true"

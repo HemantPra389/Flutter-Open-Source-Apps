@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:lottie/lottie.dart';
 
 void main() {
   runApp(const MyApp());
@@ -47,10 +48,15 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       body: Column(
         children: [
+          SizedBox(
+            height: 200,
+            width: 200,
+            child: Lottie.asset('assets/animation/cycle.json'),
+          ),
           Expanded(
             flex: 2,
             child: Padding(
-              padding: const EdgeInsets.fromLTRB(20, 30, 20, 10),
+              padding: const EdgeInsets.fromLTRB(20, 0, 20, 10),
               child: Row(
                 children: [
                   Expanded(
@@ -267,6 +273,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 child: Text(
                   _bmi.toStringAsFixed(1),
                   style: const TextStyle(
+                    decoration: TextDecoration.underline,
                     color: Colors.white,
                     fontSize: 32,
                     fontWeight: FontWeight.bold,
