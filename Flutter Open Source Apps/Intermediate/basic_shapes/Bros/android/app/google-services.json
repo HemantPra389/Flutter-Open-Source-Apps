@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292196870332",
+    "project_id": "bros-4bdf0",
+    "storage_bucket": "bros-4bdf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292196870332:android:5de77bae2766f7ea5f08b9",
+        "android_client_info": {
+          "package_name": "com.PranjalDubey.bros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292196870332-gh8tp3jh37uvr2hiitd9g2k4la7c63hj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFa9BUJnvFVJNJMZT11e7hxOX3kOBLeTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292196870332-gh8tp3jh37uvr2hiitd9g2k4la7c63hj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
