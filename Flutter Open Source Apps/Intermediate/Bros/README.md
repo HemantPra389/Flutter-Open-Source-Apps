@@ -1,16 +1,13 @@
-# bros
+> The Bro Code :
 
-A new Flutter project.
+A group chat app
 
-## Getting Started
+> Technologies used :
 
-This project is a starting point for a Flutter application.
+flutter
 
-A few resources to get you started if this is your first Flutter project:
+firebase
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> Image Screenshots :
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/96309032/184338318-44cf5bf3-7052-4dec-99be-c32b1f4655f9.png)
