@@ -1,7 +1,7 @@
 
 # Flutter opensource apps
 
-* Star the repository
+* Star the repository ⭐
 * Upload your app code as opensource
 * Chance to win Free Tshirts from hacktoberfest
 * Non code user can upload their designs as well
