@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Flutter Open Source Apps/Advanced/flutter_eCommerce_ui_kit/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter Open Source Apps/Advanced/flutter_eCommerce_ui_kit/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter Open Source Apps/Advanced/flutter_eCommerce_ui_kit/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter Open Source Apps/Beginners/SmConnect/sm_connect/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter Open Source Apps/Beginners/SmConnect/sm_connect/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter Open Source Apps/Beginners/SmConnect/sm_connect/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter Open Source Apps/Intermediate/Bros/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter Open Source Apps/Intermediate/Bros/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter Open Source Apps/Intermediate/Bros/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter Open Source Apps/Beginners/bmi_calculator/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter Open Source Apps/Beginners/bmi_calculator/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter Open Source Apps/Beginners/bmi_calculator/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter Open Source Apps/Beginners/twitter_login/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter Open Source Apps/Beginners/twitter_login/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter Open Source Apps/Beginners/twitter_login/.dart_tool" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
